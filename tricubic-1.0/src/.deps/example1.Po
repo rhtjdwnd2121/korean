@@ -1,0 +1,3 @@
+example1.o: example1.cpp ../src/libtricubic/tricubic.h
+
+../src/libtricubic/tricubic.h:

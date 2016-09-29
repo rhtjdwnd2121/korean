@@ -1,0 +1,3 @@
+tricubic_utils.lo: tricubic_utils.cpp ltricubic_utils.h
+
+ltricubic_utils.h:
